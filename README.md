@@ -13,4 +13,5 @@ Fake news classification (Binary and Six-way) on LIAR-PLUS as the benchmark data
 
 The dataset have been split into 2 files, "train.tsv" contains labels, sentences and justification. "train2.tsv" contains metadata. similarly for "val" and "test"
 
-[This](https://drive.google.com/drive/folders/1-Oo5oYOhwctwi0KzhsN7BrXo_COhojTZ?usp=sharing) is the link to Google Drive folder containing the Jupyter notebooks for Google Colab and all the relevant files.
+# Recommended mode of execution
+Please use [this](https://drive.google.com/drive/folders/1-Oo5oYOhwctwi0KzhsN7BrXo_COhojTZ?usp=sharing) link to access Google Drive folder containing the Jupyter notebooks for Google Colab and all the relevant dataset files.
